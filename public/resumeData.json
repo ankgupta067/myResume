@@ -1,73 +1,56 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Ankush Gupta",
+    "occupation":"Software Developer",
+    "description":"with more than decade of experience in Software Application Architecture, Full stack Development and Site Reliability engineering on windows and cloud platforms, Skilled in React JS, .Net technologies, AWS, Azure, Docker, Kubernetes, Service Fabric and Agile Methodologies. Strong information technology professional with a BE focused in Information science",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I help organizations and individuals with my skills in programming to achieve there goals. I have experience of working on many projects with various organizations catering customer requirements of various complexity and scale.",
+    "contactmessage":"I will be happy to help you , and together we achieve more.",
+    "email": "ankgupta067@gmail.com",
+    "phone": "+91 9844477835",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Yelahanka",
+      "city":"Bangalore",
+      "state":"Karnatka",
+      "zip": "560063"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/u/0/uc?id=1ilB3926rdNaTBRr7WgQ2Zsoosv0PbMzY&export=download",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/ankgupta067",
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ankush-gupta-35375029/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/ankgupta067",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Below are some of technologies in which i have experience.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Microsoft Certified: Azure Solutions Architect Expert",
+        "degree":"Microsoft",
+        "graduated":"July 2019"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Microsoft Certified: Azure Developer",
+        "degree":"Microsoft",
+        "graduated":"July 2019"
+      },
+      {
+        "school":"Aws Certified: Solutions Architect- Associate",
+        "degree":"Amazon",
+        "graduated":"August 2017"
       }
     ],
     "work":[
@@ -86,32 +69,32 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"C#",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":".Net core / Framework",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"Sql Server",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Docker",
+        "level":"40%"
+      },
+      {
+        "name":"Kubernetes",
+        "level":"40%"
+      },
+      {
+        "name":"Typescript",
+        "level":"50%"
+      },
+      {
+        "name":"Node js",
+        "level":"40%"
       }
     ]
   },
