@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name":"Ankush Gupta",
+    "occupation":"Software Developer",
+    "description":"with more than decade of experience in Software Application Architecture, Full stack Development and Site Reliability engineering on windows and cloud platforms, Skilled in React JS, .Net technologies, AWS, Azure, Docker, Kubernetes, Service Fabric and Agile Methodologies. Strong information technology professional with a BE focused in Information science",
+    "image":"profilepic.jpg",
+    "bio":"I help organizations and individuals with my skills in programming to achieve there goals. I have experience of working on many projects with various organizations catering customer requirements of various complexity and scale.",
+    "contactmessage":"I will be happy to help you , and together we achieve more.",
+    "email": "ankgupta067@gmail.com",
+    "phone": "+91 9844477835",
+    "address":{
+      "street":"Yelahanka",
+      "city":"Bangalore",
+      "state":"Karnatka",
+      "zip": "560063"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/u/0/uc?id=1ilB3926rdNaTBRr7WgQ2Zsoosv0PbMzY&export=download",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/ankgupta067",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ankush-gupta-35375029/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ankgupta067",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Below are some of technologies in which i have experience.",
+    "education":[
+      {
+        "school":"Microsoft Certified: Azure Solutions Architect Expert",
+        "degree":"Microsoft",
+        "graduated":"July 2019"
+      },
+      {
+        "school":"Microsoft Certified: Azure Developer",
+        "degree":"Microsoft",
+        "graduated":"July 2019"
+      },
+      {
+        "school":"Aws Certified: Solutions Architect- Associate",
+        "degree":"Amazon",
+        "graduated":"August 2017"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C#",
+        "level":"90%"
+      },
+      {
+        "name":".Net core / Framework",
+        "level":"80%"
+      },
+      {
+        "name":"Sql Server",
+        "level":"50%"
+      },
+      {
+        "name":"Docker",
+        "level":"40%"
+      },
+      {
+        "name":"Kubernetes",
+        "level":"40%"
+      },
+      {
+        "name":"Typescript",
+        "level":"50%"
+      },
+      {
+        "name":"Node js",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
