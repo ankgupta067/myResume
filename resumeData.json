@@ -55,22 +55,20 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Salesforce",
+        "title":"Lead Member Of Technical Staff",
+        "years":"October 2021 - Present",
+        "description":"Working as a lead of around 15 people , helping in Delivring Salesforce contracts"
       }
     ],
     "skills":[
       {
         "name":"C#",
         "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
       },
       {
         "name":".Net core / Framework",
